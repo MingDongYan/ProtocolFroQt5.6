@@ -1,0 +1,5 @@
+syntax = "proto3";
+message Foo {
+  string text = 1;
+  repeated int32 numbers = 2;
+}

@@ -1,0 +1,9 @@
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\protobufCSharpTest.exe.config
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\obj\Debug\protobufCSharpTest.csprojResolveAssemblyReference.cache
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\protobufCSharpTest.exe
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\protobufCSharpTest.pdb
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\Google.Protobuf.dll
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\Google.Protobuf.pdb
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\bin\Debug\Google.Protobuf.xml
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\obj\Debug\protobufCSharpTest.exe
+d:\users\ydm\文件\visual studio 2015\Projects\protobufCSharpTest\protobufCSharpTest\obj\Debug\protobufCSharpTest.pdb

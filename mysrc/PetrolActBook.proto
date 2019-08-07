@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+message Act_And_Petrol_Station_Data {
+  int32 act_id = 1;
+  int32 petrol_station_no = 2;
+}
+
+message PetrolActBook {
+  repeated  Act_And_Petrol_Station_Data act_and_petrol_station_data = 1;
+}
